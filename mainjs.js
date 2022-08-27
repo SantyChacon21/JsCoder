@@ -18,7 +18,7 @@ do {
   
 /* Alumnos aprobados y desaprobados */
 
-let nroAlumno = prompt (`Ingrese cantidad de alumnos`)
+/* let nroAlumno = prompt (`Ingrese cantidad de alumnos`)
 let agregarMas = ``
 
 do{
@@ -35,4 +35,4 @@ do{
     if(agregarMas == `si`){
         nroAlumno = prompt(`Ingrese nueva cantidad de alumnos`)
     }
-} while (agregarMas == `si`);
+} while (agregarMas == `si`); */
