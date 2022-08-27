@@ -36,3 +36,5 @@ do{
         nroAlumno = prompt(`Ingrese nueva cantidad de alumnos`)
     }
 } while (agregarMas == `si`);
+
+/* Hice dos debido a que el primero me parecia muy sencillo para unicamente entregar ese solo */
